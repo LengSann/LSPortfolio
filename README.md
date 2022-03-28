@@ -1,7 +1,7 @@
 # Leng Portfolio
 
 ## Introduction
-This project is my first project on github. I used Google web font, bootstrap, bootstrap-icon, boxicons, aos libraries in this project. The info related to my education background and working experienced not completed. I use lorem texts in some parts of the text. All contact informations are my real contact. You can contact me through any kind of social media or mail.
+This project is my first project on github. I used Google web font, bootstrap, bootstrap-icon, boxicons, aos libraries in this project. The info related to my education backgrounds and working experiences not completed. I use lorem texts in some parts of the text. Moreover, I used npm commands to download the libraries and link to my first project. It worked well for offline (https://github.com/LengSann/lengportfolio), but when I uploaded to github online, it has a problem (https://lengsann.github.io/lengportfolio/) for view. Hence, I used all libraries with url links only. Finally, all contact informations are my real contact. You can contact me through any kind of social media or mail. 
 
 ## Instructions
 * There are many ways to get this repository. 
